@@ -3,3 +3,4 @@
 [2023-05-02T15:16:08.621939+02:00] app.WARNING: Undefined variable $ok {"file":"/var/www/html/composer/index.php","line":47} []
 [2023-05-02T15:36:57.033410+02:00] app.WARNING: Undefined variable $ok {"file":"/var/www/html/composer/index.php","line":50} []
 [2023-05-02T15:45:44.227576+02:00] app.WARNING: Undefined variable $ok {"file":"/var/www/html/composer/index.php","line":54} []
+[2023-05-03T09:13:48.062005+02:00] app.WARNING: Undefined variable $ok {"file":"/var/www/html/composer/index.php","line":54} []

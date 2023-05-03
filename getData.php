@@ -10,3 +10,14 @@ $response = $httpClient->request('GET', $url, ['verify' => false]);
 
 $users = json_decode($response->getBody());
 dump($users);
+
+?><h2>Emails:</h2>
+<?php
+foreach ($users as $user) {
+?>
+    <div>
+        <p><?php echo (($user->email)) ?>
+    </div>
+<?php
+}
+?>
